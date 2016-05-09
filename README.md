@@ -16,7 +16,7 @@ showcased some of my work and tried to style the website in a way that complimen
   - I want the design to reflect my personality whilst still giving a professional feel.
   - I used a static page with parallax features on the images used in the home & about section, that is complimented with a deep dark blue background colour that is used on the portfolio section as well as the contact page.
   - The logo of the cloud with the puzzle piece within it was to fit in with the concept of MG online solutions, the cloud represents the web and the puzzle is a metaphor for a solution.
-  - Used a bootstrap featured nav-bar which is fixed to the top of the page, and used a bootstrap feature to make the nav-bar collapse into a small toggle menu bar for mobile devices, the style already given by bootstrap fit into my site nicely.
+  - Used a bootstrap featured nav-bar which is fixed to the top of the page. Also used a Jquerey function to make the nav-bar collapse into a small toggle menu bar for mobile devices, the style already given by bootstrap fit into my site nicely.
   - The nav-bar has href to each section which has its own id, had to do 50px padding on each so that the nav-bar wouldn't cover the title of each section.
   - Used photoshop to make the computer image in the home / hero section got the sky image off google.
   - The buttons used have favicons from font awesome link seen here -	link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css"
