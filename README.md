@@ -4,7 +4,7 @@ showcased some of my work and tried to style the website in a way that complimen
 
 
 #Requirements
-  - Needs to convey my personality & show case my recent projects and work history as the main people viewing my site will be potential employers and clients.
+  - Needs to convey my personality & show case my recent projects and work history as the main people viewing my site will be potential employers / clients.
 
 #Page Section ids
   - home
@@ -14,7 +14,8 @@ showcased some of my work and tried to style the website in a way that complimen
 
 #Design
   - I want the design to reflect my personality whilst still giving a professional feel.
-  - I used a static page with parallax features on the images used in the home & about section, that is complimented with a deep dark blue background used on the portfolio section as well as the contact page.
+  - I used a static page with parallax features on the images used in the home & about section, achieved by setting the background image to fixed, fixing it within its container.
+  - The images werecomplimented with a deep dark blue background used on the portfolio section as well as the contact page.
   - The logo of the cloud with the puzzle piece in it was to fit in with the concept of MG online solutions, the cloud represents the web and the puzzle is a metaphor for a solution.
   - Used a bootstrap featured nav-bar which is fixed to the top of the page. Also used a Jquerey function to make the nav-bar collapse into a small toggle menu bar for mobile devices, the style already given by bootstrap fit into my site nicely.
   - The nav-bar has an anchor to each section which has its own id, had to do 50px padding on each so that the nav-bar wouldn't cover the title of each section.
